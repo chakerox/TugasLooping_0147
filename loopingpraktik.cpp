@@ -50,3 +50,12 @@ void hasilPrima() {
         cout << "Bukan bilangan prima" << endl;
     }
 }
+
+// tampil hasil fibonacci
+void hasilFibo() {
+    if (cekFibonacci(n)) {
+        cout << "Termasuk Fibonacci" << endl;
+    } else {
+        cout << "Bukan Fibonacci" << endl;
+    }
+}
