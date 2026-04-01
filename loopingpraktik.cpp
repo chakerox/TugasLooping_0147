@@ -90,3 +90,11 @@ int main() {
         cout << "Selesai\n";
         return 0;
 
+        default:
+            cout << "Pilihan salah\n";
+        }
+    }
+
+    return 0;
+}
+    
