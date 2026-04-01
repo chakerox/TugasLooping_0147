@@ -34,3 +34,6 @@ bool cekFibonacci(int x) {
     }
     return false;
 }
+
+// input angka
+void input() {
