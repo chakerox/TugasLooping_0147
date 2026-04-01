@@ -44,3 +44,5 @@ void input() {
 
 // tampil hasil prima
 void hasilPrima() {
+        if (cekPrima(n)) {
+        cout << "Bilangan prima" << endl;
