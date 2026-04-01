@@ -70,3 +70,5 @@ void tampilMenu() {
     cout << "Pilih 1,2,0: ";
     cin >> pilihan;
 }
+
+int main() {
