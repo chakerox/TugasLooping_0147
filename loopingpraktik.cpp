@@ -22,3 +22,5 @@ bool cekPrima(int x) {
 
 // cek bilangan fibonacci
 bool cekFibonacci(int x) {
+    int a = 0, b = 1, c = 0;
+
