@@ -40,3 +40,7 @@ void input() {
     cout << "Masukkan angka: ";
     cin >> n;
 }
+
+
+// tampil hasil prima
+void hasilPrima() {
