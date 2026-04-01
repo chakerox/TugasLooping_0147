@@ -81,4 +81,7 @@ int main() {
         hasilPrima();
         break;
 
-        
+        case 2:
+        input();
+        hasilFibo();
+        break;
