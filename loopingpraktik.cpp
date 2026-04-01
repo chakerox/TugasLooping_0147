@@ -85,3 +85,8 @@ int main() {
         input();
         hasilFibo();
         break;
+
+        case 0:
+        cout << "Selesai\n";
+        return 0;
+
