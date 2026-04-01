@@ -15,3 +15,8 @@ bool cekPrima(int x) {
         if (x % i == 0) {
             return false;
         }
+        i++;
+    }
+    return true;
+}
+
