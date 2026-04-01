@@ -59,3 +59,14 @@ void hasilFibo() {
         cout << "Bukan Fibonacci" << endl;
     }
 }
+
+
+// menu
+void tampilMenu() {
+    cout << "\nMenu:\n";
+    cout << "1. Cek Prima\n";
+    cout << "2. Cek Fibonacci\n";
+    cout << "0. Keluar\n";
+    cout << "Pilih 1,2,0: ";
+    cin >> pilihan;
+}
